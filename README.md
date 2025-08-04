@@ -1,11 +1,11 @@
 # Recruitment-Agent
 
-still under production ...
-Directory Env Require:
-1 folder name: Candidate to contain CV candidate from email
-1 folder name: Pass to contain CV candidate who pass (this folder serve for human review)
-1 file: joblist.txt - list job open. Ex: Ai Engineer Intern, Sale Executive Junior
-each position have 1 folder: [position name], in that folder contain JD for that job and scoring_criteria.txt - contain list category to scoring candidate
+still under production ...<br>
+**Directory Env Require:**<br>
+1 folder name: **Candidate** to contain CV candidate from email<br>
+1 folder name: **Pass** to contain CV candidate who pass (this folder serve for human review)<br>
+1 file: **joblist.txt** - list job open. Ex: Ai Engineer Intern, Sale Executive Junior<br>
+each position have n folder: **Job_Title_**, in that folder contain **JD.docx/.pdf** for that job and **scoring_criteria.txt** - contain list category to scoring candidate<br>
 
 
 ---Candidate<br>
