@@ -8,20 +8,20 @@ Directory Env Require:
 each position have 1 folder: [position name], in that folder contain JD for that job and scoring_criteria.txt - contain list category to scoring candidate
 
 
----Candidate
-|
----Pass
-|
----joblist.txt
-|
----Job_Title_1
-|        |---JD.docx/.pdf
-|        |---scoring_criteria.txt
-|
----Job_Title_2
-|
----Agent.ipynb
----tools.py
+---Candidate<br>
+|<br>
+---Pass<br>
+|<br>
+---joblist.txt<br>
+|<br>
+---Job_Title_1<br>
+|        |---JD.docx/.pdf<br>
+|        |---scoring_criteria.txt<br>
+|<br>
+---Job_Title_2<br>
+|<br>
+---Agent.ipynb<br>
+---tools.py<br>
 
 
 Although this folder structure is somewhat complex, it ensures that the agent accesses the correct context it needs, reducing the search load. The agent only needs to search by file name and access the exact job description for the job it wants.
