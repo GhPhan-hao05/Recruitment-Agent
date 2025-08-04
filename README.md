@@ -15,8 +15,8 @@ each position have 1 folder: [position name], in that folder contain JD for that
 ---joblist.txt<br>
 |<br>
 ---Job_Title_1<br>
-|        |---JD.docx/.pdf<br>
-|        |---scoring_criteria.txt<br>
+|        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---JD.docx/.pdf<br>
+|        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---scoring_criteria.txt<br>
 |<br>
 ---Job_Title_2<br>
 |<br>
